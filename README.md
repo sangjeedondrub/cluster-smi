@@ -1,6 +1,6 @@
 # cluster-smi
 
-> `nvidia-smi` but for cluster => `cluster-smi`
+> `nvidia-smi` but for cluster ➝ `cluster-smi`
 >
 > A fork of https://github.com/PatWie/cluster-smi
 
