@@ -13,7 +13,7 @@ sudo apt install libzmq3-dev
 # Install `cluster-smi`
 
 ```
-cd $GOPATH/src/github.com
+cd $GOPATH/src/github.com/sangjeedondrub
 
 git clone https://github.com/sangjeedondrub/cluster-smi
 
