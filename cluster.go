@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/patwie/cluster-smi/cluster"
-	"github.com/patwie/cluster-smi/nvml"
-	"github.com/patwie/cluster-smi/proc"
+	"github.com/sangjeedondrub/cluster-smi/cluster"
+	"github.com/sangjeedondrub/cluster-smi/nvml"
+	"github.com/sangjeedondrub/cluster-smi/proc"
 	"os"
 	"os/user"
 	"strconv"
