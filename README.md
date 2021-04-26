@@ -2,7 +2,7 @@
 
 > `nvidia-smi` but for cluster => `cluster-smi`
 >
-> A forked of https://github.com/PatWie/cluster-top
+> A fork of https://github.com/PatWie/cluster-smi
 
 # Install system dependencies
 
